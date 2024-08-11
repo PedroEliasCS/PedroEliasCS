@@ -80,15 +80,12 @@ My name is Pedro Elias Costa Santos, I'm 23 years old, I live in Franca-SP Brazi
   - <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/-Insomnia-fff?style=flat&logo=Insomnia&logoColor=624FC5" alt="Insomnia"/></code>
-  <!--- <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/-WebStorm-07adf4?style=flat&logo=WebStorm&logoColor=black" alt="WebStorm"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code> -->
+  - <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code>
 
 ## <b>📈 GitHub Stats:</b>
 
 <div align="left">
 
-<!-- ![PedroEliasCS's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroEliasCS&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true) -->
 <a href="https://github.com/PedroEliasCS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEliasCS&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
 
