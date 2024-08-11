@@ -21,7 +21,7 @@ My name is Pedro Elias Costa Santos, I'm 23 years old, I live in Franca-SP Brazi
 ## 📚 Experiences:
 
 <p align="left">
-📌 Quality Assurance at MazzaFC Tecnologia da Informação(September 2021 - March 2022)
+📌 Quality Assurance at Contabilizai Tecnologia da Informação(September 2019 - March 2022)
 <br>📌 Pleno I Fullstack Developer at Stars Enco Desenvolvimento de Sistemas (March 2022 - Currently)</p>
 
 ## <b> 📖 Knowledge:</b>
