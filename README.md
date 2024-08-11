@@ -94,5 +94,6 @@ My name is Pedro Elias Costa Santos, I'm 23 years old, I live in Franca-SP Brazi
 
 <image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroEliasCS&theme=dracula">
 
-[![PedroEliasCS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroEliasCS&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![PedroEliasCS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroEliasCS&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![PedroEliasCS's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroEliasCS&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
