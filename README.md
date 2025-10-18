@@ -1,7 +1,5 @@
 # Hello, I am Pedro Elias!
 
-## About me
-
 **Contact:**
 
 - [Instagram](https://www.instagram.com/pedroeliascs/)
